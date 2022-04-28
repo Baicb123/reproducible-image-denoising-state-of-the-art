@@ -1,4 +1,4 @@
-# reproducible-image-denoising-state-of-the-art
+# image-denoising
 Collection of popular and reproducible **single image denoising** works.
 This collection is inspired by the [summary by flyywh](https://github.com/flyywh/Image-Denoising-State-of-the-art)
 
